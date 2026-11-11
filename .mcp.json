@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "atlas-prod": {
+      "type": "http",
+      "url": "https://app-api.notom.io/mcp"
+    }
+  }
+}

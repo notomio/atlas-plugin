@@ -1,0 +1,12 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "atlas",
+  "version": "0.6.0",
+  "description": "Read Atlas site topology and prepare Connect and Interact configuration through guided skills and the Atlas MCP service.",
+  "author": {
+    "name": "Notom"
+  },
+  "repository": "https://github.com/notomio/atlas-plugin",
+  "homepage": "https://github.com/notomio/atlas-plugin",
+  "license": "MIT"
+}
