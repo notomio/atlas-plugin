@@ -1,6 +1,6 @@
 {
   "name": "atlas",
-  "version": "0.6.0",
+  "version": "0.6.2",
   "description": "Read Atlas site topology and prepare Connect and Interact configuration through guided skills and the Atlas MCP service.",
   "author": {
     "name": "Notom"
